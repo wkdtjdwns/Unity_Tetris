@@ -12,10 +12,6 @@ User can change it arbitrarily! <br>
 - Hard Drop : Space Bar
 
 # PlayScene
-<details>
-<summary>제목</summary>
-	![image](https://github.com/wkdtjdwns/Unity_Tetris/assets/128266768/78be5452-4b24-4391-b24b-f4f7e2d38ae9)
-</details>
 ## Start Scene
 ![image](https://github.com/wkdtjdwns/Unity_Tetris/assets/128266768/78be5452-4b24-4391-b24b-f4f7e2d38ae9)
 ## Option
